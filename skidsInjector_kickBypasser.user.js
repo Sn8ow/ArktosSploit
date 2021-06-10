@@ -1,11 +1,11 @@
 // ==UserScript==
-// @name         Blocksploit Loader and Kick Bypass
+// @name         ArktosSploit Loader and Kick Bypass
 // @supportURL   https://www.paypal.com/paypalme/blockman02135
 // @homepage     https://blocksploit.github.io/
 // @iconURL      https://i.imgur.com/y4xvKAH.png
 // @version      0.2
 // @description  try to take over the world!
-// @author       Blockman
+// @author       Sn8ow
 // @require      https://rawgit.com/kawanet/msgpack-lite/master/dist/msgpack.min.js
 // @match        *://venge.io/*
 // @run-at       document-start
