@@ -280,7 +280,7 @@ function createGui() {
     // End
     gui.Register({
         type: 'title',
-        label: 'Created by Blockman_#0431'
+        label: 'Created by Sn8ow'
     });
     return gui;
 };
