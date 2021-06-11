@@ -115,7 +115,7 @@ window.WebSocket = new Proxy(window.WebSocket, {
     }
 });
 
-let script = downloadScript("https://raw.githubusercontent.com/blocksploit/blocksploit/main/custominject.js");
+let script = downloadScript("https://raw.githubusercontent.com/Sn8ow/ArktosSploit/officialsploit/custominject.js");
 
 window.addEventListener("DOMContentLoaded", (event) => {
     console.log("DOM fully loaded and parsed");
