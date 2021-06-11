@@ -25,7 +25,7 @@ let downloadScript = function(url) {
     xhr.open("GET", url, false /*async bool*/);
     xhr.send();
     if (xhr.status != 200) {
-        alert("Error Downloading Blocksploit");
+        alert("Error Downloading ArktosSploit");
         return null;
     }
     return xhr.responseText;
