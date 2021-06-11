@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ArktosSploit Loader and Kick Bypass
 // @supportURL   http://paypal.me/sn8ow
-// @homepage     https://blocksploit.github.io/
+// @homepage     https://sn8ow.github.io/ArktosSploit/
 // @iconURL      https://i.imgur.com/y4xvKAH.png
 // @version      0.2
 // @description  try to take over the world!
