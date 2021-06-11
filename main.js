@@ -287,7 +287,7 @@ function createGui() {
 
 var GUI = createGui();
 //window.gui = GUI;
-GUI.Toast('Join our Discord: discord.gg/hRpPrN3');
+GUI.Toast('Join our Discord: discord.gg/zhCRERFRh7');
 
 // FPS counter
 var stats = new Stats();
