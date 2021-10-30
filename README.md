@@ -7,3 +7,11 @@ ArktosSploit is the best hack for https://venge.io
 3. Go to https://venge.io
 4. Have Fun !
 
+# Logs
+## Version 1.2 (Updated: 30.10.21)
+- Added Auto-Update software
+- Fixed installing ```ArktosSploit```
+- Added new discord tag
+- Publishing in process (project) to https://greasyfork.org/ ```ArktosSploit```
+- Updated Injector to 2.0 (Beta) version
+- I make HTML webiste. It's time for programming!
