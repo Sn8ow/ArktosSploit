@@ -3,7 +3,7 @@
 // @supportURL   http://paypal.me/sn8ow
 // @homepage     https://sn8ow.github.io/ArktosSploit/
 // @iconURL      https://i.imgur.com/y4xvKAH.png
-// @version      0.2
+// @version      1.2
 // @description  try to take over the world!
 // @author       Sn8ow
 // @require      https://rawgit.com/kawanet/msgpack-lite/master/dist/msgpack.min.js
